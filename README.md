@@ -1,2 +1,0 @@
-# Project-Ncurses
-FLAPPY BIRD 🐤
