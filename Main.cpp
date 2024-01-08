@@ -5,7 +5,6 @@
 //|***************************|
 
 #include <ncursesw/curses.h>
-#include <math.h>
 
 // XMAX and YMAX must be multiples of 3.
 #define XMAX 33
