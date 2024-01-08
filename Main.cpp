@@ -2,6 +2,8 @@
 //|TO DO:                     | 
 //|ZMIENIĆ DZIAŁAJĄCY SZKIELET|
 //|NA OOP UZYWAJAC KLAS       |
+//|UZYJ DZIEDZICZENIA.        |
+//|HERMETYZACJA.              |
 //|***************************|
 
 #include <ncursesw/curses.h>
